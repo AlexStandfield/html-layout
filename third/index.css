@@ -1,0 +1,36 @@
+#rowHeader {
+    height: 100px;
+    width: 50vw;
+    background: lightgray;
+}
+#square {
+    height: 50px;
+    width: 50px;
+    background: skyblue;
+    position: relative;
+    top: 25px;
+}
+#Mid {
+    height: 200px;
+    width: 50vw;
+}
+#rowOne {
+    height: 100px;
+    width: 50vw;
+    background: skyblue;
+}
+#rowTwo {
+    height: 100px;
+    width: 50vw;
+    background: lightblue;
+}
+#rowThree {
+    height: 100px;
+    width: 50vw;
+    background: rgb(172, 240, 206);
+}
+#rowFour {
+    height: 100px;
+    width: 50vw;
+    background: rgb(241, 245, 12)
+}

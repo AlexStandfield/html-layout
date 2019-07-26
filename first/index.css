@@ -1,0 +1,25 @@
+#header {
+    height: 150px;
+    width: 50%;
+    background: gray;
+}
+#leftSide {
+    height: 550px;
+    width: 100px;
+    background: lightgrey;
+}
+#rightSide {
+    position: absolute;
+    right: 768px;
+    height: 550px;
+    width: 100px;
+    background: lightgrey;
+}
+#footer {
+    position: absolute;
+    left: -560px;
+    top: 475px;
+    height: 75px;
+    width: 560px;
+    background: black;
+}
